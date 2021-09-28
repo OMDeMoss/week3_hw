@@ -81,13 +81,13 @@ left and right margin to 5%, set background color to hex code #333333 */
 
 /* 15) selector: all elements with the class of right declarations: set float to right */
 
-    ,right {
+    .right {
         float: right;
     }
 
 /* 16) selector: all elements with class of clear declarations: set clear to both */
 
-    .clear {
+    .clr {
         clear: both;
     }
 
